@@ -1,0 +1,14 @@
+@import "./css/chota.css";
+
+body{
+  background-color: slategrey ;
+}
+
+
+
+.colorbox {
+  height: 15px;
+  width: 15px;
+  margin: 0.5px;
+}
+
